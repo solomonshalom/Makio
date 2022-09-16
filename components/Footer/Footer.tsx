@@ -72,19 +72,16 @@ const Footer: React.FC = () => {
       <FooterWrapper container>
         <FooterText>
           © 2022{' '}
-          <FooterLink href="https://solomonlijo.vercel.app" target="_blank" text>
-            Solomon Shalom Lijo
+          <FooterLink href="https://solomonlijo.vercel.app/" target="_blank" text>
+            solomon Shalom Lijo
           </FooterLink>
         </FooterText>
         <FooterWrapper>
-          <FooterLink href="https://github.com/solomonshalom target="_blank">
+          <FooterLink href="https://github.com/solomonshalom" target="_blank">
             <Icons.GitHub />
           </FooterLink>
           <FooterLink href="https://twitter.com/shalomlijo/" target="_blank">
             <Icons.Twitter />
-          </FooterLink>
-          <FooterLink href="#" target="_blank">
-            <Icons.Dribbble />
           </FooterLink>
         </FooterWrapper>
       </FooterWrapper>
