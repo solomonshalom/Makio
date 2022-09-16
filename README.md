@@ -1,15 +1,11 @@
-![image](https://user-images.githubusercontent.com/69592270/125812804-4a70e8bd-5614-4eab-b00b-0af7a7ee9ba9.png)
-
 <p align="center">
-  <a href="https://oponion.vercel.app/">
-    <h2 align="center">Oponion</h2>
+  <a href="https://makio.vercel.app/">
+    <h2 align="center">Makio</h2>
   </a>
 </p> 
 <p align="center">⚡ Creating, voting, and sharing polls made simple</p>
 <p align="center">
-  <a href="https://www.figma.com/file/DzKnopExFvjt64AZEpdVPV/Oponion?node-id=0%3A1&viewport=112%2C63%2C0.2566978633403778">Design Board</a>
-    ·
-  <a href="https://oponion.vercel.app/">Demo</a>
+  <a href="https://makio.vercel.app/">Demo</a>
  </p>
 
 # 🚀 Quickstart 
