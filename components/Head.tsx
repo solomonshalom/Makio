@@ -28,11 +28,11 @@ const Header: React.FC<{ title: string }> = ({ title }) => {
       />
       <meta
         property="og:image"
-        content="https://github.com/harshhhdev/oponion/blob/main/public/OponionBanner.png?raw=true"
+        content="#"
       />
       <meta
         property="twitter:image"
-        content="https://github.com/harshhhdev/oponion/blob/main/public/OponionBanner.png?raw=true"
+        content="#"
       />
     </Head>
   )

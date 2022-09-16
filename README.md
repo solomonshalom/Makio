@@ -17,7 +17,7 @@
 Run the website locally
 
 ```
-git clone https://github.com/harshhhdev/oponion.git
+git clone https://github.com/solomonshalom/Maki
 ```
 
 ## Setting up the project

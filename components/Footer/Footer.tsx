@@ -54,7 +54,7 @@ const Footer: React.FC = () => {
     <Wrapper>
       <FooterWrapper container>
         <FooterLink
-          href="https://github.com/harshhhdev/oponion"
+          href="https://github.com/solomonshalom/Maki"
           target="_blank"
           text
         >
@@ -71,19 +71,19 @@ const Footer: React.FC = () => {
       </FooterWrapper>
       <FooterWrapper container>
         <FooterText>
-          © 2021{' '}
-          <FooterLink href="https://harshhhdev.github.io/" target="_blank" text>
-            Harsh Singh
+          © 2022{' '}
+          <FooterLink href="https://solomonlijo.vercel.app" target="_blank" text>
+            Solomon Shalom Lijo
           </FooterLink>
         </FooterText>
         <FooterWrapper>
-          <FooterLink href="https://github.com/harshhhdev/" target="_blank">
+          <FooterLink href="https://github.com/solomonshalom target="_blank">
             <Icons.GitHub />
           </FooterLink>
-          <FooterLink href="https://twitter.com/harshhhdev/" target="_blank">
+          <FooterLink href="https://twitter.com/shalomlijo/" target="_blank">
             <Icons.Twitter />
           </FooterLink>
-          <FooterLink href="https://dribbble.com/harshhhdev/" target="_blank">
+          <FooterLink href="#" target="_blank">
             <Icons.Dribbble />
           </FooterLink>
         </FooterWrapper>
