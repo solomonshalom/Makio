@@ -8,7 +8,7 @@
   <a href="https://makio.vercel.app/">Demo</a>
  </p>
 
-# 🚀 Quickstart 
+# 🚀 Quickstart (Not production ready, please locally use it to better feel and understand it)
 
 Run the website locally
 
